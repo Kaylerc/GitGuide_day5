@@ -3,6 +3,18 @@ html {
   width: 90%;
   background-color: #333;
   color: #fff;
-  margin: o, auto;
-  padding-top: 15px;
+  margin: 0, auto;
+  padding: 15px 0px;
+}
+
+code {
+  background-color: pink;
+  color: red;
+  padding: .2;
+  border-redius: 1px;
+
+}
+
+a {
+color: #fff;
 }
