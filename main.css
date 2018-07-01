@@ -4,15 +4,19 @@ html {
   background-color: #333;
   color: #fff;
   margin: 0, auto;
-  padding: 15px 0px;
+  padding: 25px 0px;
 }
 
-code {
+code, pre {
   background-color: pink;
   color: red;
   padding: .2;
-  border-redius: 1px;
+  border-redius: 2px;
 
+}
+
+a:hover {
+background-color: gray;
 }
 
 a {
